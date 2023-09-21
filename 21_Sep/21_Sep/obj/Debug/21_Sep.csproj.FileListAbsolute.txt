@@ -1,0 +1,10 @@
+C:\Users\AVITA\source\repos\VisPro2023\21_Sep\21_Sep\bin\Debug\21_Sep.exe.config
+C:\Users\AVITA\source\repos\VisPro2023\21_Sep\21_Sep\bin\Debug\21_Sep.exe
+C:\Users\AVITA\source\repos\VisPro2023\21_Sep\21_Sep\bin\Debug\21_Sep.pdb
+C:\Users\AVITA\source\repos\VisPro2023\21_Sep\21_Sep\obj\Debug\21_Sep.csproj.AssemblyReference.cache
+C:\Users\AVITA\source\repos\VisPro2023\21_Sep\21_Sep\obj\Debug\_21_Sep.Form1.resources
+C:\Users\AVITA\source\repos\VisPro2023\21_Sep\21_Sep\obj\Debug\_21_Sep.Properties.Resources.resources
+C:\Users\AVITA\source\repos\VisPro2023\21_Sep\21_Sep\obj\Debug\21_Sep.csproj.GenerateResource.cache
+C:\Users\AVITA\source\repos\VisPro2023\21_Sep\21_Sep\obj\Debug\21_Sep.csproj.CoreCompileInputs.cache
+C:\Users\AVITA\source\repos\VisPro2023\21_Sep\21_Sep\obj\Debug\21_Sep.exe
+C:\Users\AVITA\source\repos\VisPro2023\21_Sep\21_Sep\obj\Debug\21_Sep.pdb
